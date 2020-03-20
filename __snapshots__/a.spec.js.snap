@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot updating should work 1`] = `
+Object {
+  "a": 1,
+}
+`;
